@@ -41,5 +41,5 @@ test.environment([
 ])
 
 task wrapper(type: Wrapper) {
-    gradleVersion = '2.0'
+    gradleVersion = '5.0'
 }
