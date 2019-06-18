@@ -37,7 +37,7 @@ bootRun.environment([
 ])
 
 test.environment([
-        "WELCOME_MESSAGE": "Hello from test commintg again for checkout"
+        "WELCOME_MESSAGE": "Hello from test"
 ])
 
 task wrapper(type: Wrapper) {
