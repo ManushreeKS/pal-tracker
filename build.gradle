@@ -39,7 +39,3 @@ bootRun.environment([
 test.environment([
         "WELCOME_MESSAGE": "Hello from test"
 ])
-
-task wrapper(type: Wrapper) {
-    gradleVersion = '5.0'
-}
